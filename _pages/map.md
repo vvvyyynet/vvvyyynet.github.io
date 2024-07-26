@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /map/
-title: "Cluj Map
+title: "Cluj Map"
 ---
 
 ## My Map
