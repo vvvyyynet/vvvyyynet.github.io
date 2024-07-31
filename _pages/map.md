@@ -1,5 +1,4 @@
 ---
-layout: home
 permalink: /map/
 title: "Cluj Map"
 ---
